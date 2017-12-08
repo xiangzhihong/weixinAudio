@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="str_recoder_normal">按住说话</string>
+    <string name="str_recoding">松开结束</string>
+    <string name="str_recoder_want_cancel">松开手指，取消发送</string>
+
+</resources>
